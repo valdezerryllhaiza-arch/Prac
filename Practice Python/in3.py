@@ -1,0 +1,149 @@
+#assessment 7
+for colors in ["red","orange","yellow","blue","purple"]:
+    print(colors)
+for movie_genre in ["Horror","Romance","Comedy","Thriller"]:
+    print(movie_genre)
+ 
+for i in range (2,4,6):
+    print(i)
+
+#write a code that takes sandwich orders using for loops or while or both. 
+# Use arrays or range to define orders. 
+#you can try asking user for input. (optional)
+
+
+for sandwich in ["ChickenSandwich", "BeefSandwich", "FishSandwich"]:
+    print(sandwich)
+Order=(input("Enter Order Name:"))
+print("Proceed to the waiting area")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
